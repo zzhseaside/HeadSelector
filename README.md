@@ -4,6 +4,14 @@
 
 本项目是一个基于 Cocos Creator 的角色头像选择器组件，实现了圆形布局的无限循环滚动选择功能。通过流畅的动画效果和直观的交互体验，用户可以轻松选择不同的角色头像。
 
+### 演示视频
+
+<video src="video.mp4" controls width="100%" style="max-width: 800px; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
+  您的浏览器不支持视频播放。
+</video>
+
+*点击播放按钮查看头像选择器的实际运行效果*
+
 ## 目录结构
 
 ```
