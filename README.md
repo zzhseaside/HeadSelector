@@ -6,8 +6,9 @@
 
 ### 演示视频
 
-<video src="video.mp4" controls width="100%" style="max-width: 800px; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
-  您的浏览器不支持视频播放。
+<video controls width="100%" style="max-width: 800px; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" preload="metadata">
+  <source src="video.mp4" type="video/mp4">
+  您的浏览器不支持视频播放。建议您使用现代浏览器，或者<a href="video.mp4" download>下载视频</a>到本地观看。
 </video>
 
 *点击播放按钮查看头像选择器的实际运行效果*
