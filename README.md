@@ -4,7 +4,9 @@
 
 本项目是一个基于 Cocos Creator 的角色头像选择器组件，实现了圆形布局的无限循环滚动选择功能。通过流畅的动画效果和直观的交互体验，用户可以轻松选择不同的角色头像。
 
-### 演示视频
+### 演示截图!
+[局部截取_20260331_101031.png](%E5%B1%80%E9%83%A8%E6%88%AA%E5%8F%96_20260331_101031.png)
+
 [video.mp4](video.mp4)
 
 ## 目录结构
@@ -17,12 +19,10 @@ assets/
 │   ├── RoleSelector.ts           # 角色选择器主组件
 │   ├── image/                    # 头像图片资源
 │   │   ├── *.jpg                 # 角色头像图片（16张）
-│   │   └── image.meta            # 图片资源元数据
 │   ├── sprite-radius.effect      # 圆形精灵特效
 │   ├── sprite-radius.mtl         # 圆形精灵材质
-│   └── head.meta                 # 模块元数据
-├── Head.scene                    # 头像选择器场景文件
-└── README.md                     # 本文档
+└── Head.scene                    # 头像选择器场景文件
+README.md                     # 本文档
 ```
 
 ## 核心组件
